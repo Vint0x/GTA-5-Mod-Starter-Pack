@@ -25,4 +25,4 @@ For Combat Pistol & Pistol MKII - mods\update\x64\dlcpacks\mpgunrunning\dlc.rpf\
 Glock 17: Equinox407 - gta5-mods.com/users/Equinox407
 Simple Trainer: sjaak327 - https://www.gta5-mods.com/users/sjaak327
 
-Vintox - youtube.com/channel/UCBmwQWxU2d1GzuHeJkIJK1A
+Vintox - https://youtube.com/channel/UCBmwQWxU2d1GzuHeJkIJK1A
